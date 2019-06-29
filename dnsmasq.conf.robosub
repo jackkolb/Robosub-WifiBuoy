@@ -114,7 +114,7 @@
 # interface (eg eth0) here.
 # Repeat the line for more than one interface.
 interface=wlan0
-  dhcp-range=192.168.4.2,192.168.4.20,255.255.255.0,24h
+  dhcp-range=192.168.4.2,192.168.4.10,255.255.255.0,24h
 interface=eth0
   dhcp-range=192.168.5.2,192.168.5.10,255.255.255.0,24h
 
